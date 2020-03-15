@@ -125,6 +125,7 @@
 			children = (
 				DA298C83241B89F2001E4679 /* APIClient.swift */,
 				DA5A0CC5241E47E30010DBE3 /* RealmManager.swift */,
+				DA91C828241E923300899C0A /* Constants.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -161,7 +162,6 @@
 				DAD3D438241AD2F1008ED5BB /* Assets.xcassets */,
 				DAD3D43A241AD2F1008ED5BB /* LaunchScreen.storyboard */,
 				DAD3D43D241AD2F1008ED5BB /* Info.plist */,
-				DA91C828241E923300899C0A /* Constants.swift */,
 			);
 			path = WikiSearch;
 			sourceTree = "<group>";

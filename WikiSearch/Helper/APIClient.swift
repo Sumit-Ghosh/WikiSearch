@@ -1,5 +1,5 @@
 //
-//  NetworkManager.swift
+//  APIClient.swift
 //  WikiSearch
 //
 //  Created by Sumit Ghosh on 13/03/20.

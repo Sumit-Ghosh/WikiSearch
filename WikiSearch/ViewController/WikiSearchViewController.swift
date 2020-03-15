@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  WikiSearchViewController.swift
 //  WikiSearch
 //
 //  Created by Sumit Ghosh on 13/03/20.
