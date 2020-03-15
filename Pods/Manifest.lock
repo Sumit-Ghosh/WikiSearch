@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (5.0.2)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - RealmSwift (from `https://github.com/realm/realm-cocoa.git`, branch `master`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Realm
+
+EXTERNAL SOURCES:
+  RealmSwift:
+    :branch: master
+    :git: https://github.com/realm/realm-cocoa.git
+    :submodules: true
+
+CHECKOUT OPTIONS:
+  RealmSwift:
+    :commit: ad6f5f94b023caaec57c99f7a986160f8c087d0c
+    :git: https://github.com/realm/realm-cocoa.git
+    :submodules: true
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+
+PODFILE CHECKSUM: b5021035126bf86db7ef0ffd4a22e4cd263f9f0e
+
+COCOAPODS: 1.9.1
